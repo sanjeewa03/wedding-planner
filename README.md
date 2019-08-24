@@ -27,10 +27,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 ## Steps
 
-git clone <link> .
-cd wedding-planner .
-npm i .
-npm i firebase-tools .
-ng serve.
+git clone <link> ;
+cd wedding-planner ;
+npm i ;
+npm i firebase-tools ;
+ng serve;
 
 **if there was any missing dependencies install them using ( npm i <dependence> ).
