@@ -37,6 +37,14 @@ header .overlay {
   opacity: 0.5;
   z-index: 1;
 }
+#text-area {
+  color: gray;
+  height: 5%;
+}
+#content {
+  height: 50px;
+  background: rgba(red, green, blue, alpha)
+}
 
 @media (pointer: coarse) and (hover: none) {
   header {

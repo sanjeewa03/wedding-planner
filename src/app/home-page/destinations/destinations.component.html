@@ -1,0 +1,11 @@
+<div>
+  <h1>Explore Destinations</h1>
+  <div class="cards-list">
+    <div class="card 1"  *ngFor= "let item of data">
+      <div class="card_image"> <img src={{item.image}} /></div>
+      <div class="card_title title-white">
+        <p>{{item.title}}</p>
+      </div>
+    </div>
+  </div>
+</div>
